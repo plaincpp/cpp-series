@@ -1,0 +1,7 @@
+1 init from object
+copy a
+2 by value
+copy a
+3 by reference
+4 init from temporary
+ac

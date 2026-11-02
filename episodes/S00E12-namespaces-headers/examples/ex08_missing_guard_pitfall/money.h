@@ -1,0 +1,3 @@
+struct Money {
+    int cents;
+};

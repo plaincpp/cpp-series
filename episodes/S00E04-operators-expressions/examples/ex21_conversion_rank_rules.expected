@@ -1,0 +1,9 @@
+char + char -> int: true
+short + short -> int: true
+int + unsigned -> unsigned: true
+int + long -> long: true
+unsigned + long -> long: true
+long + unsigned long -> unsigned long: true
+unsigned long + long long -> unsigned long long: true
+long long + float -> float: true
+float + double -> double: true

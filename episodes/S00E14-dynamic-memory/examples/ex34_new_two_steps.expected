@@ -1,0 +1,7 @@
+allocate 4 bytes
+construct 1
+destroy 1
+free
+allocate 4 bytes
+free
+constructor failed

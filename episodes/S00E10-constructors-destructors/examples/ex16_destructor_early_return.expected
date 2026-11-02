@@ -1,0 +1,5 @@
+open log
+close log
+open log
+parse 7
+close log

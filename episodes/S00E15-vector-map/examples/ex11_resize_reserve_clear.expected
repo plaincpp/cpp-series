@@ -1,0 +1,6 @@
+reserve(10): size 0, capacity 10
+resize(4): size 4, capacity 10
+push_back: size 5, capacity 10
+values[3]: 0
+clear: size 0, capacity 10
+shrink_to_fit: size 0, capacity 0

@@ -1,0 +1,7 @@
+make x
+make y
+make z
+size 3
+end z
+end y
+end x

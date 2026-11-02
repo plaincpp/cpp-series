@@ -1,0 +1,2 @@
+float  bits 24 digits10 6 max_digits10 9
+double bits 53 digits10 15 max_digits10 17

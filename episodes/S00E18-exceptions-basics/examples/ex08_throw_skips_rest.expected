@@ -1,0 +1,5 @@
+step 1 start
+step 1 end
+step 2 start
+caught: step failed
+after the handler

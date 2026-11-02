@@ -1,0 +1,7 @@
+make 1
+make 2
+make 3
+array ready
+end 3
+end 2
+end 1

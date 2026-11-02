@@ -1,0 +1,3 @@
+CHAR_BIT  8
+int bits  32
+long bits 64

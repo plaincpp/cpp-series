@@ -1,0 +1,9 @@
+start global
+start automatic
+start dynamic
+start static
+end dynamic
+main ends
+end automatic
+end static
+end global

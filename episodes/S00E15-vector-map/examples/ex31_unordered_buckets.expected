@@ -1,0 +1,4 @@
+max_load_factor: 1
+more buckets: true
+buckets >= size: true
+load_factor <= 1: true

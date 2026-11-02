@@ -1,0 +1,4 @@
+false && ...: [left]
+true || ...: [left]
+true && ...: [left][right]
+false true false

@@ -1,0 +1,6 @@
+-- in body
+Part()
+operator=
+-- in list
+Part(int)
+10

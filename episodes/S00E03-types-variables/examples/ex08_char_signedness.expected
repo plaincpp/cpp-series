@@ -1,0 +1,4 @@
+char is signed: true
+char min: -128
+char max: 127
+same as signed char: false

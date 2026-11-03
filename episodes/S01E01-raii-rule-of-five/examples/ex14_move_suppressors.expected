@@ -1,0 +1,5 @@
+Plain: move
+~DefaultDtor() = default: copy
+CopyCtor(const CopyCtor&) = default: copy
+virtual ~Base() = default: copy
+FixedBase, five defaults: move

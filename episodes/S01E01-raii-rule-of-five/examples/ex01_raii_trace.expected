@@ -1,0 +1,5 @@
+acquire file
+acquire lock
+work
+release lock
+release file

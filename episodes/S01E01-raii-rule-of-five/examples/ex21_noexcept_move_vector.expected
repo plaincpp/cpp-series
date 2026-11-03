@@ -1,0 +1,2 @@
+noexcept move: copies 0, moves 2
+move without noexcept: copies 2, moves 0

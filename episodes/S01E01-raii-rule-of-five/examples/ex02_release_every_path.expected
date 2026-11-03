@@ -1,0 +1,8 @@
+acquire
+done
+release
+acquire
+release
+acquire
+release
+caught: failed
